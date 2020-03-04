@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Profile</title>
+  </head>
+  <body>
+    <header>
+      <ul>
+        <li><img src="icon.jog"></li>
+        <li><img src="icon1.jpg"></li>
+        <li><img src="icon2.jpg"></li>
+      </ul>
+    </header>
+    <div>
+      <nav>
+        <img src="profilepic.jpg">
+        <h5>Newton Barley</h5>
+      </nav>
+      <nav>
+        <h5>Main</h5>
+        <ul>
+          <li>HOME</li>
+          <li>JOBS</li>
+          <li>RESUMES</li>
+          <li>TASKS</li>
+          <li>CALENDAR</li>
+        </ul>
+      </nav>
+      <nav>
+        <h5>Admin</h5>
+        <ul>
+          <li>USERS</li>
+          <li>LOCATIONS</li>
+          <li>WORKFLOWS</li>
+          <li>JOB BOARDS</li>
+          <li>SOCIAL</li>
+        </ul>
+      </nav>
+      <nav>
+        <h5>Categories</h5>
+        <ul>
+          <li>Administrative</li>
+          <li>Design</li>
+          <li>Executive</li>
+          <li>Human Resources</li>
+        </ul>
+      </nav>
+    </div>
+    <div>
+      <h2>Costumer Service Representative</h2>
+      <ul>
+        <li>SUMMARY</li>
+        <li>APPLICANTS</li>
+        <li>JOB BOARD</li>
+        <li>INTERVIEWS</li>
+        <li>ACTIVITY</li>
+        <li>BROADCAST</li>
+        <li>NOTIFICATIONS</li>
+      </ul>
+      <img src="graphic.jog">
+      <img src="graphic1.jpg">
+    </div>
+    <div>
+      <table>
+        <tr>
+          <td>Job Description</td>
+        </tr>
+        <tr>
+          <td>Position Title</td>
+          <td>Customer Service Representative</td>
+        </tr>
+        <tr>
+          <td>Location</td>
+          <td>San Francisco,CA</td>
+        </tr>
+        <tr>
+          <td>Employment Type</td>
+          <td>Full-time</td>
+        </tr>
+         <tr>
+          <td>Experience</td>
+          <td>Mid-level</td>
+        </tr>
+         <tr>
+          <td>Status</td>
+          <td>Open</td>
+        </tr>
+         <tr>
+          <td>Description</td>
+          <td>The Customer Service Representative is responsible for interacting with and providing quality assistance to all radical customers.</td>
+        </tr>
+         <tr>
+          <td>Hearing Lead</td>
+          <td><img src="tom.jpg">Tom Tizzy</td>
+        </tr>
+         <tr>
+          <td>Approved Salary</td>
+          <td>$58,000</td>
+        </tr>
+      </table>
+    </div>
+  </body>
+</html>
