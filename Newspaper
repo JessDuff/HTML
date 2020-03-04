@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Newspaper</title>
+  </head>
+  <body>
+    <header>
+      <section>
+        <p>Rainy Cold</p>
+      </section>
+      <section>
+        <h1>The Daily Rag</h1>
+      </section>
+      <section>
+        <p>6 A.M. EXTRA</p>
+      </section>
+      <section>
+        <ul>
+          <li>Vol XXXVII</li>
+          <li>April 9th, 2012</li>
+          <li>$1.00</li>
+        </ul>
+      </section>
+    </header>
+    <div>
+      <article>
+        <h1>ALIENS INVADE EARTH! TAKE COVER</h1>
+        <section>
+          <h2>PRESIDENT DECLARES MARTIAL LAW</h2>
+          <p>
+            At midnight a flotilla of Martian space ships was sighted over the English channel, headed in the direction of London Shortly after, flotillas were sighted heading towards other major cities Leaders.
+          </p>
+        </section>
+        <section>
+          <h3>SAUCERS OVER LONDON</h3>
+          <img src="aliens.jpg">
+        </section>
+      </article>
+    </div>
+  </body>
+</html>
