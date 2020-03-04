@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Twitter</title>
+  </head>
+  <body>
+    <header>
+      <img src="perfil.jpg" alt="profile photo">
+      <h1>Jess Pariente</h1>
+    </header>
+    <section class="personal information">
+      <header>
+        <button class="settings">
+          Settings
+        </button>
+        <button class="inbox">
+          Inbox
+        </button>
+        <button class="notification">
+          Notifications
+        </button>
+        <button class="follow">
+          Follow
+        </button>
+      </header>
+      <p>Just a regural human</p>
+      <p>
+        <a href="https://www.google.com/maps/">Location</a>
+        <a href="https://www.webpage.com">Personal web</a>
+        <time datetime="2020-02-01">Joined February 2020</time>
+      </p>
+    </section>
+    <section>
+      <ul>
+        <li>Tweets</li>
+        <li>Tweets & replies</li>
+        <li>Media</li>
+        <li>Likes</li>
+      </ul>
+    </section>
+  </body>
+</html>
