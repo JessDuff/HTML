@@ -2,19 +2,27 @@
 ### Warm up questions
 1. HTML tells what to display a web page and CSS how to style it.
 2. With:
-	* Classes 
+* Classes 
+
     HTML: 
+    
     `<h1 class="title">Intro to CSS</h1>`
+    
     CSS:
+    
 ```
 .title{
 	color: blue;
 }     
 ```
-	* ID’s
-HTML:
+* ID’s
+
+	HTML:
+	
 `<	h1 id="title">Intro to CSS</h1>`
-CSS:
+
+	CSS:
+	
 ```
 #title{
 	color: blue;
