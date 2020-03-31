@@ -42,6 +42,6 @@
 2. The last class in the CSS.
 3. If both have the same property, (for example color) the ID takes precedence regardless of the order in which they are declared, if they have different properties, the element acquires the values of both (class and ID).
 
-![SS1](imagenes/img1.png)
+![SS1](Screen Shot 2020-03-31 at 4.30.32 PM.png)
 ![SS2](imagenes/img1.png)
  
