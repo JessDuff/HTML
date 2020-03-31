@@ -4,7 +4,7 @@
 2. With:
 * Classes 
 
-    HTML: 
+	HTML: 
     
     `<h1 class="title">Intro to CSS</h1>`
     
@@ -19,10 +19,10 @@
 
 	HTML:
 	
-`<	h1 id="title">Intro to CSS</h1>`
+`<h1 id="title">Intro to CSS</h1>`
 
-	CSS:
-	
+   CSS:
+
 ```
 #title{
 	color: blue;
