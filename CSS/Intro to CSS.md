@@ -50,4 +50,7 @@
 
 ## Explore Box Model
 
+![Slash Page 1](p1.png)
+![Slash Page 2](p2.png)
+
  
