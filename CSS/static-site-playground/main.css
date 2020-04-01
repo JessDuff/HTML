@@ -1,11 +1,19 @@
-section{
-  border: red 5px solid;
-  margin: 30px;
-  padding: 10px;
-}
-button{
-  border-color: blue;
-  margin: 10px;
-  padding: 10px;
+.track-package{
+  background-color: #f0c14b;
+  margin-bottom: 40px;
+  border: 2px solid #846a29;
 }
 
+button{
+  background-color: #e7e9ec;
+  border: 2px solid #A2A6AC;
+  border-radius: 7px;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 15px 0px;
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 15px;
+  width:500px;
+  height:70px;
+}
